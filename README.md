@@ -73,6 +73,9 @@ The M3X allows you to control the CNC remotely via a web interface.
 ### ⚠️ **CNC Firmware Requirement**
 For the M3X to function correctly, your **M350 CNC Controller firmware** must be version **2025-12-11-00 or newer**. Earlier versions may not support the required Modbus communication protocol settings.
 
+**➡️ M350 Firmware Download Link:** [https://github.com/foinnc/M350/releases/](https://github.com/foinnc/M350/releases/) 
+
+
 ---
 
 For the M3X to communicate successfully, you **must** configure the M350 CNC Controller's internal parameters as follows.
