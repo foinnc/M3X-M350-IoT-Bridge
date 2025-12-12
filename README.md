@@ -54,7 +54,7 @@ The M3X allows you to control the CNC remotely via a web interface.
 > **📢 Prerequisite (Important):**
 > Before attempting to communicate with the M350, you must flash the firmware into the IoT Box.
 >
-> Please follow the [**Firmware Flashing Guide**](Docs/Firmware_Flashing_Guide.md) to flash the `M3X_Web_Control_v1.0.bin` file to your device first.
+> Please follow the [**Firmware Flashing Guide**](Docs/Flashing_Guide.md) to flash the `M3X_Web_Control_v1.0.bin` file to your device first.
 
 ### How to Use:
 
@@ -96,7 +96,7 @@ See the M3X in action!
 [![Video Thumbnail](images/Video_Thumbnail_Placeholder.jpg)](YOUR_VIDEO_LINK_HERE)
 
 ### Project Gallery
-![Web Control Interface](images/Web_Control_Screenshot.jpg)
+![Web Control Interface](Docs/images/smartphone.png)
 *(Caption: The responsive web interface on a smartphone)*
 
 ![M3X Installed](images/M3X_Installed_Setup.jpg)
@@ -106,8 +106,8 @@ See the M3X in action!
 
 ## 📚 Documentation & Resources
 
-* **Flash Firmware:** [Firmware Flashing Guide](Docs/Firmware_Flashing_Guide.md) - Step-by-step flashing instructions.
-* **Hardware Details:** [ESP32-C3 Core Module Introduction](Docs/ESP32-C3_Core_Introduction.md) - Pinouts and specs.
+* **Flash Firmware:** [Firmware Flashing Guide](Docs/Flashing_Guide.md) - Step-by-step flashing instructions.
+* **Hardware Details:** [ESP32-C3 Core Module Introduction](Docs/ESP32_C3_Core_Introduction.md) - Pinouts and specs.
 * **Source Code:** Check the `Firmware/` folder for source code examples.
 * **Schematics:** Check the `Hardware/` folder for circuit diagrams.
 
