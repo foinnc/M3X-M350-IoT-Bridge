@@ -36,7 +36,7 @@ The module provides a rich set of I/O and communication interfaces:
 
 The following diagram illustrates the pin assignment and peripheral mapping for the core module:
 
-![ESP32-C3 Core Module Pinout Diagram](images\ESP32C3_Pinout_Reference.png) 
+![ESP32-C3 Core Module Pinout Diagram](images/ESP32C3_Pinout_Reference.png) 
 
 ---
 
@@ -67,5 +67,5 @@ For hardware replication, debugging, and detailed component inspection, please r
 
 The full schematic is provided in the repository's documentation files:
 
-![M3X Core Module Schematic Preview](images\M3X_C3_Module_Schematic.png) 
+![M3X Core Module Schematic Preview](images/M3X_C3_Module_Schematic.png) 
 
