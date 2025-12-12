@@ -112,7 +112,8 @@ See the M3X in action!
 ## 📚 Documentation & Resources
 
 * **Flash Firmware:** [Firmware Flashing Guide](Docs/Flashing_Guide.md) - Step-by-step flashing instructions.
-* **Hardware Details:** [ESP32-C3 Core Module Introduction](Docs/ESP32_C3_Core_Introduction.md) - Pinouts and specs.
+* **Hardware Details:** [ESP32-C3 Core Module Introduction](Docs/ESP32_C3_Core_Introduction.md) - Pinouts and specs. 
+  > **💡 Note:** The core component, the **ESP32-C3 Super Mini**, can be purchased as a readily available module, eliminating the need for custom PCB design. 
 * **Source Code:** Check the `Firmware/` folder for source code examples.
 * **Schematics:** Check the `Hardware/` folder for circuit diagrams.
 
