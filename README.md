@@ -58,17 +58,22 @@ The M3X allows you to control the CNC remotely via a web interface.
 
 ### How to Use:
 
-1.  **Power On:** Turn on your M350 (and thus the M3X).
-2.  **Connect Wi-Fi:** On your Phone, Tablet (iPad/Android), or Laptop, search for the Wi-Fi hotspot.
-    * **SSID (Name):** `M3X`
-3.  **Open Browser:** Launch any web browser (Chrome, Safari, Edge, etc.) and enter the address:
-    * **URL:** `192.168.4.1`
+1.  **Power On:** Turn on your M350 (and thus the M3X).
+2.  **Connect Wi-Fi:** On your Phone, Tablet (iPad/Android), or Laptop, search for the Wi-Fi hotspot.
+    * **SSID (Name):** `M3X`
+3.  **Open Browser:** Launch any web browser (Chrome, Safari, Edge, etc.) and enter the address:
+    * **URL:** `192.168.4.1`
 
 **You now have a wireless CNC control panel right in your hand!**
 
 ---
 
 ## ⚙️ 5. M350 System Configuration (Critical Setup)
+
+### ⚠️ **CNC Firmware Requirement**
+For the M3X to function correctly, your **M350 CNC Controller firmware** must be version **2025-12-11-00 or newer**. Earlier versions may not support the required Modbus communication protocol settings.
+
+---
 
 For the M3X to communicate successfully, you **must** configure the M350 CNC Controller's internal parameters as follows.
 
