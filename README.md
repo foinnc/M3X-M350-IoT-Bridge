@@ -98,10 +98,10 @@ For the M3X to communicate successfully, you **must** configure the M350 CNC Con
 See the M3X in action!
 
 ### Video Demonstration
-[**▶️ Click here to watch the M3X Setup & Demo Video**](YOUR_VIDEO_LINK_HERE)
+[**▶️ Click here to watch the M3X Setup & Demo Video**](https://youtu.be/5DFLAazw6eI)
 
 *(Or use the thumbnail embed method below)*
-[![Video Thumbnail](images/Video_Thumbnail_Placeholder.jpg)](YOUR_VIDEO_LINK_HERE)
+[![Video Thumbnail](Docs/images/Mobile_Web_Control.jpg)](YOUR_VIDEO_LINK_HERE)
 
 ### Project Gallery
 ![Web Control Interface](Docs/images/smartphone.png)
