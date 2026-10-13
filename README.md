@@ -121,5 +121,14 @@ See the M3X in action!
 * **Schematics:** Check the `Hardware/` folder for circuit diagrams.
 
 ---
+## 🛠️ DIY or Get a Ready-to-Use Unit
+
+This project is 100% open-source, and building it yourself is always encouraged! 
+
+However, if you don't have access to 3D printing/PCB fabrication, or simply want to save time, fully assembled and bench-tested units (with an industrial enclosure and verified DB9 serial cable) are available:
+
+- **Official Store:** [foinnccnc.com](https://foinnccnc.com)
+- **Technical Support & Feedback:** [foinnc@gmail.com](mailto:foinnc@gmail.com)
+- **WhatsApp Community / Direct Chat:** [+86 13923726521](https://wa.me/8613923726521)
 
 _Open Source Project - Use at your own risk and enjoy the freedom of DIY!_
