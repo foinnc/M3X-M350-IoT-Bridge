@@ -319,8 +319,8 @@ const uint16_t KeyCodeMap(const String& cmd) {
   if (cmd == "Z-") return 0x0163; 
   if (cmd == "A+") return 0x0164; 
   if (cmd == "A-") return 0x0165; 
-  if (cmd == "B+") return 0x0109; 
-  if (cmd == "B-") return 0x0166; 
+  if (cmd == "B+") return 0x0166; 
+  if (cmd == "B-") return 0x0167; 
 
   if (cmd == "START") return 0x0148;
   if (cmd == "PAUSE") return 0x0149;
